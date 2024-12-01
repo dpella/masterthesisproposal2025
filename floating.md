@@ -20,15 +20,6 @@ technology is the best existing approach for doing privacy preserving analytics.
 ## Proposal 
 
 [Differential privacy](https://link.springer.com/chapter/10.1007/11681878_14)
-(DP) is emerging as a viable solution to release statistical information about
-the population without compromising data subjects' privacy. A standard way to
-achieve DP is by adding some statistical noise to the result of a data analysis.
-If the noise is carefully calibrated, it provides *privacy* protection for the
-individuals contributing their data. A standard way to achieve DP is adding some
-carefully calibrated noise to the result of a query.
-
-
-[Differential privacy](https://link.springer.com/chapter/10.1007/11681878_14)
 (DP) is a widely adopted framework for protecting the privacy of individuals in
 datasets while enabling the release of statistical insights. The DP mechanism
 relies heavily on adding carefully calibrated noise, such as Laplace or
