@@ -45,7 +45,7 @@ floating-point vulnerabilities. As organizations increasingly adopt DP systems,
 the lack of such a tool poses significant risks.
 
 ### **Expected Outcomes**  
-1. **A Comprehensive Test Suite:**  An open-source Haskell-based tool capable
+1. **A Comprehensive Test Suite:**  An open-source **Haskell-based tool** capable
    of identifying floating-point vulnerabilities in DP systems.  
 
 2. **Documentation and Guidelines:**  Detailed instructions for using the tool,
